@@ -1,1 +1,1 @@
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/{{value}})](https://twitter.com/{{value}})
+<a href="https://twitter.com/{ value }" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="{ value }" height="30" width="40" /></a>

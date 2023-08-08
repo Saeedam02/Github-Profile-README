@@ -1,1 +1,1 @@
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:{{value}})
+<a href="mailto:{ value }" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="{ value }" height="35" width="35" /></a>

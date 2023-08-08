@@ -25,7 +25,11 @@ with st.expander("Social media"):
     YouTube=col1.text_input('YouTube')
     Medium=col2.text_input('Medium')
 
-
+# Extentions
+st.header("Extentions")
+with st.expander("Extentions"):
+    if st.checkbox("show Github Stats"):
+        github_stats=st.text_input("Github stats:")
 # select theme
 st.header("Theme")
 themes=Path("src/themes").iterdir()

@@ -39,5 +39,5 @@ if __name__ =='__main__':
      theme="default"
 
      #Generate github readme
-     profile = generate_profile(theme, name=name, email=email,linkdin=linkdin)
+     profile = generate_profile(theme, name=name, email=email,linkdin=linkdin , twitter=twitter)
      print(profile)
