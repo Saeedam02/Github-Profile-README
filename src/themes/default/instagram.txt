@@ -1,1 +1,1 @@
-<a href="https://instagram.com/{ value }" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="{ value }" height="30" width="40" /></a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/{ value }/)](https://www.instagram.com/{ value })

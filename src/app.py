@@ -1,6 +1,6 @@
 import streamlit as st
 from pathlib import Path 
-from src.git_profile import generate_profile
+from github_profile import generate_profile
 
 st.title(":zap: Github Profile README")
 # personal info
